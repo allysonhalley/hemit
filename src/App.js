@@ -1,15 +1,13 @@
 import React from 'react'
 import './App.css';
 
+import Header from './components/Header/Header'
 import Hello from './components/Hello/Hello'
 
 const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>H&F</h1>
-        <p>tech intelligence</p>
-      </header>
+      <Header />
       <Hello />
     </div>
   );
