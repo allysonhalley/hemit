@@ -45,7 +45,7 @@ export default function ButtonAppBar(){
                         <MenuItem onClick={handleClose} > Coming Soon </MenuItem>
                     </Menu>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1}} >
-                        H&F - tech intelligence
+                        H&M - tech intelligence
                     </Typography>
                 </Toolbar>
             </AppBar>

@@ -1,4 +1,4 @@
-#H&Fti - Tech Intelligence
+#H&Mti - Tech Intelligence
 
 A web site created on ReactJS.
 
